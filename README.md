@@ -1,15 +1,21 @@
-- 👋 Hi, I’m @0607bkhanhhoang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Khanh Hoang!
+🔧 Embedded Engineer | 🤖 AI Enthusiast | 🚗 Automotive Tech Lover
 
-This is the project and all the assignment in Machine Learning course in Ho CHi Minh University of Technology. Faculty of Electrical and Electronics Engineering.
+I'm an embedded engineer with a strong passion for AI, C/C++, and automotive technologies. I love working with low-level programming, optimizing embedded systems, and exploring how AI can be integrated into real-time applications, especially in the automotive industry.
 
+💡 What I Do
+Embedded Systems Development: Working with microcontrollers, RTOS, and low-level programming.
+AI & Machine Learning: Exploring AI applications in embedded systems, such as edge AI and deep learning.
+Automotive Tech: Interested in ADAS, autonomous driving, and ECU programming.
+🔨 Tech Stack
+Languages: C, C++, Python
+Embedded Platforms: STM32, ESP32, Raspberry Pi
+AI & ML: TensorFlow Lite, OpenCV, Edge AI
+Development Tools: Keil, VS Code, PlatformIO
+📌 Projects
+🚀 I work on various embedded and AI-driven projects, from real-time control systems to automotive applications. Check out my repositories for exciting work on firmware development, AI on embedded devices, and automotive control systems.
 
-<!---
-0607bkhanhhoang/0607bkhanhhoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Let's Connect!
+🔗 LinkedIn | 📝 Blog | 📧 Email me at: buikhanhhoang2003l@gmail.com
+
+Let me know if you want any modifications! 🚀
